@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scrapbox on SIS Lab</title>
+    <link>https://www.meganii.com/tags/scrapbox/</link>
+    <description>Recent content in Scrapbox on SIS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 10 Aug 2018 23:43:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.meganii.com/tags/scrapbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>「Scrapbox情報整理術」出版記念スペシャルに参加してきました</title>
+      <link>https://www.meganii.com/blog/2018/08/10/scrapbox-drinkup-publication-launch-party/</link>
+      <pubDate>Fri, 10 Aug 2018 23:43:05 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2018/08/10/scrapbox-drinkup-publication-launch-party/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+  &lt;amp-img
+      src=&#34;https://res.cloudinary.com/meganii/image/upload/v1534515312/IMG_2923_lu4ags.jpg&#34;
+      srcset=&#34;https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_1000/IMG_2923_lu4ags.jpg 1000w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_800/IMG_2923_lu4ags.jpg 800w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_640/IMG_2923_lu4ags.jpg 640w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_400/IMG_2923_lu4ags.jpg 400w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_320/IMG_2923_lu4ags.jpg 320w&#34;
+      width=&#34;4032&#34;
+      height=&#34;3024&#34;
+      layout=&#34;responsive&#34;
+      alt=&#34;image&#34;&gt;
+  &lt;/amp-img&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>「Scrapbox Drinkup ＃04 Tokyo Edition」イベントレポート</title>
+      <link>https://www.meganii.com/blog/2018/05/23/scrapbox-drinkup-04-tokyo-edition/</link>
+      <pubDate>Wed, 23 May 2018 21:40:53 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2018/05/23/scrapbox-drinkup-04-tokyo-edition/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+  &lt;amp-img
+      src=&#34;https://res.cloudinary.com/meganii/image/upload/v1527252310/scrapbox_drinkup_04_fcn0xk.jpg&#34;
+      srcset=&#34;https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_1000/scrapbox_drinkup_04_fcn0xk.jpg 1000w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_800/scrapbox_drinkup_04_fcn0xk.jpg 800w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_640/scrapbox_drinkup_04_fcn0xk.jpg 640w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_400/scrapbox_drinkup_04_fcn0xk.jpg 400w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_320/scrapbox_drinkup_04_fcn0xk.jpg 320w&#34;
+      width=&#34;467&#34;
+      height=&#34;467&#34;
+      layout=&#34;responsive&#34;
+      alt=&#34;image&#34;&gt;
+  &lt;/amp-img&gt;
+&lt;/figure&gt;
+
+
+&lt;p&gt;2018/05/23(水)に行われた「SCRAPBOX DRINKUP ＃04 TOKYO EDITION」に参加してきました。ブログ枠での参加でしたのでイベントレポートとしてまとめておきます。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開催日
+
+&lt;ul&gt;
+&lt;li&gt;2018/05/23(水) 19:00 〜 21:30&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;イベントページ
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nota.connpass.com/event/87600/&#34;&gt;Scrapbox Drinkup #4 Tokyo Edition - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;会場
+
+&lt;ul&gt;
+&lt;li&gt;株式会社freee&lt;/li&gt;
+&lt;li&gt;〒141-0031 東京都品川区西五反田2-8-1 五反田ファーストビル 地下1階&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>ScrapboxにAmazonの書影を取り込むブックマークレット</title>
+      <link>https://www.meganii.com/blog/2018/04/15/scrap-amazon-image-to-scrapbox/</link>
+      <pubDate>Sun, 15 Apr 2018 22:29:00 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2018/04/15/scrap-amazon-image-to-scrapbox/</guid>
+      <description>&lt;p&gt;読書メモをScrapboxにするに当たって、書籍の画像が欲しくなったので、参考URLのブログを参考にブックマークレットを作成しました。&lt;/p&gt;
+
+&lt;p&gt;久しぶりにブックマークレットを作りましたが、ES2015(ES6)がモダンなブラウザでは標準で使えるようになったので嬉しいですね。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

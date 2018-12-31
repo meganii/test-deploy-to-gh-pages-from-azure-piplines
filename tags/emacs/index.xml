@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on SIS Lab</title>
+    <link>https://www.meganii.com/tags/emacs/</link>
+    <description>Recent content in Emacs on SIS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 13 Mar 2012 23:59:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.meganii.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>multi-termでterm内にコピー&amp;amp;ペーストできるようにする</title>
+      <link>https://www.meganii.com/blog/2012/03/13/1331650789/</link>
+      <pubDate>Tue, 13 Mar 2012 23:59:49 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2012/03/13/1331650789/</guid>
+      <description>Emacs 上で快適に Bash や Zsh を利用する設定 : 紹介マニア デフォルトでは multi-term には対応していませんが以下のように設定すると対応できます。以下の設定では F8 を押す</description>
+    </item>
+    
+    <item>
+      <title>LionにCocoaEmacsをソースコードからビルドしてインストール</title>
+      <link>https://www.meganii.com/blog/2012/03/11/1331444069/</link>
+      <pubDate>Sun, 11 Mar 2012 14:34:29 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2012/03/11/1331444069/</guid>
+      <description>Emacs実践入門 ～思考を直感的にコード化し、開発を加速する (WEB&amp;#43;DB PRESS plus) 大竹 智也 出版社：技術評論社 発売日：2012-03-07 Amazon Yahoo! 楽天 本書読んで、</description>
+    </item>
+    
+    <item>
+      <title>Emacsに導入したZencodingの初期カーソル位置をイケてる感じにする方法-yasnippetとzencoding-</title>
+      <link>https://www.meganii.com/blog/2012/02/19/1329617556/</link>
+      <pubDate>Sun, 19 Feb 2012 11:12:36 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2012/02/19/1329617556/</guid>
+      <description>Zencodingを導入したんだけど、展開後の初期カーソル位置がイケてないって思ってるあなたに。ざっくり言うと、zencodingと一緒にy</description>
+    </item>
+    
+    <item>
+      <title>引っ越しを機にemacs.elの設定に取り組む</title>
+      <link>https://www.meganii.com/blog/2010/11/06/1289056658/</link>
+      <pubDate>Sat, 06 Nov 2010 00:17:38 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2010/11/06/1289056658/</guid>
+      <description>引っ越しを機に、これまでやろうやろうと思っていた、CarbonEmacsの設定を行いました。備忘録です。 Before CarbonEmacsのデフォルト</description>
+    </item>
+    
+  </channel>
+</rss>

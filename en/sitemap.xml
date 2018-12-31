@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/2017/03/02/vivaldi-swipe-gestures/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/2017/01/14/can-not-download-with-wget/</loc>
+    <lastmod>2017-01-14T14:14:02+09:00</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/2016/05/16/install-virtualbox-and-vagrant-in-el-capitan/</loc>
+    <lastmod>2017-01-01T21:50:35+09:00</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/2015/07/25/capybara-connect-error/</loc>
+    <lastmod>2017-01-02T17:29:00+09:00</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/2015/02/11/how-to-install-sqlplus-in-macosx/</loc>
+    <lastmod>2017-01-02T08:19:00+09:00</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/2015/02/08/oracle-express-edition-11g-install/</loc>
+    <lastmod>2017-01-02T08:58:00+09:00</lastmod>
+    
+    
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/blog/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/browser/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/capybara/</loc>
+    <lastmod>2017-01-02T17:29:00+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/category/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/database/</loc>
+    <lastmod>2017-01-02T08:58:00+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/el-capitan/</loc>
+    <lastmod>2017-01-01T21:50:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/linux/</loc>
+    <lastmod>2017-01-14T14:14:02+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/mac/</loc>
+    <lastmod>2017-01-01T21:50:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/mecab/</loc>
+    <lastmod>2017-01-14T14:14:02+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/oracle/</loc>
+    <lastmod>2017-01-02T08:19:00+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/sqlplus/</loc>
+    <lastmod>2017-01-02T08:19:00+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/category/tech/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.meganii.com/en/tags/vivaldi/</loc>
+    <lastmod>2017-03-02T22:15:35+09:00</lastmod>
+    
+    <priority>0</priority>
+  </url>
+  
+</urlset>

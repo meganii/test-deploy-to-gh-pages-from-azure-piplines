@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Circleci on SIS Lab</title>
+    <link>https://www.meganii.com/tags/circleci/</link>
+    <description>Recent content in Circleci on SIS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 08 Sep 2016 22:33:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.meganii.com/tags/circleci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Circle CIでテストを定期実行する</title>
+      <link>https://www.meganii.com/blog/2016/09/08/circle-ci-nightly-build/</link>
+      <pubDate>Thu, 08 Sep 2016 22:33:29 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2016/09/08/circle-ci-nightly-build/</guid>
+      <description>&lt;p&gt;前回、HugoのData-driven contenを試した。
+&lt;a href=&#34;https://www.meganii.com/blog/2016/09/06/hugo-data-driven-content-for-polupar-posts/&#34;&gt;Hugoで人気記事を表示するためJSONを返すAPIサーバを作りData-driven Contentを試してみた - SIS Lab&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;これによって、毎回&lt;code&gt;hugo build&lt;/code&gt;することによって、人気記事を更新する仕組みができた。後は、Cicle CIを定期実行させる。これは、Circle CIのAPIを利用すれば実現できる。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Circle CIでHugoのビルド・デプロイを実行する</title>
+      <link>https://www.meganii.com/blog/2016/08/15/circle-ci-hugo-deploy/</link>
+      <pubDate>Mon, 15 Aug 2016 15:53:59 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2016/08/15/circle-ci-hugo-deploy/</guid>
+      <description>この記事で書くこと Circle CIの設定 Circle CIからさくらVPS(CentOS 6.4)へのrsyncでハマったこと circle.ymlのRuby, Pyt</description>
+    </item>
+    
+  </channel>
+</rss>

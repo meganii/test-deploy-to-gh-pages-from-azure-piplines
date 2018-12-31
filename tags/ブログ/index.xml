@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ブログ on SIS Lab</title>
+    <link>https://www.meganii.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/</link>
+    <description>Recent content in ブログ on SIS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 22 Dec 2017 19:33:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.meganii.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>はてなダイアリーからはてなブログ経由で独自ドメインのブログに記事を移行しました</title>
+      <link>https://www.meganii.com/blog/2017/12/22/migration-hatena-diary-to-custom-domain-via-hatena-blog/</link>
+      <pubDate>Fri, 22 Dec 2017 19:33:34 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2017/12/22/migration-hatena-diary-to-custom-domain-via-hatena-blog/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;
+  &lt;amp-img
+      src=&#34;https://res.cloudinary.com/meganii/image/upload/v1514030618/hatenadiary_qoqemm.png&#34;
+      srcset=&#34;https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_1000/hatenadiary_qoqemm.png 1000w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_800/hatenadiary_qoqemm.png 800w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_640/hatenadiary_qoqemm.png 640w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_400/hatenadiary_qoqemm.png 400w,
+              https://res.cloudinary.com/meganii/image/upload/q_auto,f_auto,w_320/hatenadiary_qoqemm.png 320w&#34;
+      width=&#34;1024&#34;
+      height=&#34;512&#34;
+      layout=&#34;responsive&#34;
+      alt=&#34;image&#34;&gt;
+  &lt;/amp-img&gt;
+&lt;/figure&gt;
+
+
+&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+
+&lt;p&gt;今まで、はてなダイアリー(d.hatena.ne.jp.meganii)の記事は移行せずにそのまま残していました。しかし、Scrapboxのユーザー会に参加して、過去コンテンツの重要性に気付き、今のブログに全て集約したいと考えました。&lt;/p&gt;
+
+&lt;p&gt;そこで、はてなブログを経由させて、独自ドメインのブログに記事を全て移行しました。&lt;/p&gt;
+
+&lt;p&gt;その結果、はてなダイアリーからはてなブログにブックマークを含めて簡単に移行でき、その後の独自ドメインへの移行も、ページ価値を引き継いで、問題なく移行することができました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>情報だって、再発明したっていいじゃんね。</title>
+      <link>https://www.meganii.com/blog/2011/11/08/1320760207/</link>
+      <pubDate>Tue, 08 Nov 2011 22:50:07 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2011/11/08/1320760207/</guid>
+      <description>車輪の再発明があるんだったら、情報だって再発明したっていいじゃんね。 ふと、思った。 自分が書いても意味がない？ すでに誰かがやってるから。 すでに</description>
+    </item>
+    
+    <item>
+      <title>200エントリー突破！！3年半の中での勉強会、イベント、思い入れのあるエントリーを紹介！</title>
+      <link>https://www.meganii.com/blog/2011/09/11/1315694943/</link>
+      <pubDate>Sun, 11 Sep 2011 07:49:03 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2011/09/11/1315694943/</guid>
+      <description>ブログを更新しだしてから、３年半。２００エントリーを突破しました！これを機に過去のエントリーを読み返してみて、その中でも思い入れのあるエント</description>
+    </item>
+    
+    <item>
+      <title>１年前の自分。１年後の自分へ</title>
+      <link>https://www.meganii.com/blog/2010/11/26/1290723839/</link>
+      <pubDate>Fri, 26 Nov 2010 07:23:59 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2010/11/26/1290723839/</guid>
+      <description>下書き記事を見返してみると、ちょうど１年前の記事が眠っていた。それは、次のような内容だった。 Blog,TwitterでGiveの5乗の効果を</description>
+    </item>
+    
+    <item>
+      <title>あいつより「目立つ」ブログの作り方</title>
+      <link>https://www.meganii.com/blog/2010/08/25/1282688132/</link>
+      <pubDate>Wed, 25 Aug 2010 07:15:32 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2010/08/25/1282688132/</guid>
+      <description>最近ブログを始めたけど、なんだか誰にも見てもらえなくて続かなそうなあなた。 別に、ブログの女王を目指してるわけじゃないけど、もうちょっとみんな</description>
+    </item>
+    
+    <item>
+      <title>アクセスは突然に</title>
+      <link>https://www.meganii.com/blog/2010/04/14/1271253165/</link>
+      <pubDate>Wed, 14 Apr 2010 22:52:45 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2010/04/14/1271253165/</guid>
+      <description>昨日の朝、いつものようにGoogle Analiticsでこのblogのアクセスログを見てたら、週間の変化率が600パーセントを超えていました</description>
+    </item>
+    
+  </channel>
+</rss>

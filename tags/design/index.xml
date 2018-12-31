@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on SIS Lab</title>
+    <link>https://www.meganii.com/tags/design/</link>
+    <description>Recent content in Design on SIS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 11 Jul 2018 21:25:48 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.meganii.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugoのテーマでsubmoduleを使う方法</title>
+      <link>https://www.meganii.com/blog/2018/07/11/how-to-use-submodule-for-hugo-theme/</link>
+      <pubDate>Wed, 11 Jul 2018 21:25:48 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2018/07/11/how-to-use-submodule-for-hugo-theme/</guid>
+      <description>&lt;p&gt;HugoのThemeプロジェクトをgit submoduleで扱う方法について調べました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ちょっとしたアイコンに使えるアイコン集</title>
+      <link>https://www.meganii.com/blog/2018/04/22/get-free-icon/</link>
+      <pubDate>Sun, 22 Apr 2018 17:32:37 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2018/04/22/get-free-icon/</guid>
+      <description>&lt;p&gt;ちょっとしたデザインに使えるアイコン集のリンクです。&lt;/p&gt;
+
+&lt;p&gt;よく忘れるのでメモしておきます。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo-ZenをベースにHugoのデザインを変えてみた</title>
+      <link>https://www.meganii.com/blog/2016/04/17/hugo-zen/</link>
+      <pubDate>Sun, 17 Apr 2016 19:57:49 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2016/04/17/hugo-zen/</guid>
+      <description>春になったので、BlogのデザインをHugoをベースに変えてみました。 前々から、自分で構造を把握したい、jQueryに依存するBootstr</description>
+    </item>
+    
+    <item>
+      <title>オープン・イノベーションとデザインシンキング</title>
+      <link>https://www.meganii.com/blog/2015/10/31/open-inovation-and-design-thinking/</link>
+      <pubDate>Sat, 31 Oct 2015 10:49:04 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2015/10/31/open-inovation-and-design-thinking/</guid>
+      <description>そもそもイノベーションとは？ シュンペーターいわく、 イノベーションとは、新しいものを生産する、あるいは既存のものを新しい方法で生産すること。 創</description>
+    </item>
+    
+    <item>
+      <title>YouTube埋め込みタグをレスポンシブ化する</title>
+      <link>https://www.meganii.com/blog/2014/09/03/youtube-responsive/</link>
+      <pubDate>Wed, 03 Sep 2014 23:26:00 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2014/09/03/youtube-responsive/</guid>
+      <description>せっかくのレスポンシブデザインなので、YouTubeの埋め込みもレスポンシブ化してみた。 main.css .youtubeWrapper{ position: relative ; margin-top: 1.2em ; margin-bottom: 1.2em ; padding-top: 69px ; padding-bottom: 50% ; overflow: hidden ; } .youtubeWrapper iframe { position: absolute</description>
+    </item>
+    
+  </channel>
+</rss>

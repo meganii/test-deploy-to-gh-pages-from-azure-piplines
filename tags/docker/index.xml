@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on SIS Lab</title>
+    <link>https://www.meganii.com/tags/docker/</link>
+    <description>Recent content in Docker on SIS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 24 Feb 2018 12:38:02 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.meganii.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dockerコンテナ内からホスト側のDockerを操作する</title>
+      <link>https://www.meganii.com/blog/2018/02/24/docker-run-in-docker-container/</link>
+      <pubDate>Sat, 24 Feb 2018 12:38:02 +0900</pubDate>
+      
+      <guid>https://www.meganii.com/blog/2018/02/24/docker-run-in-docker-container/</guid>
+      <description>&lt;p&gt;要は、あるdockerコンテナの中から新たにDockerコンテナを生成したい。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;dockerコマンドをインストールする&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Dockerfile&#34; data-lang=&#34;Dockerfile&#34;&gt;&lt;span class=&#34;k&#34;&gt;FROM&lt;/span&gt;&lt;span class=&#34;s&#34;&gt; alpine&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;RUN&lt;/span&gt; apk --update --no-cache add docker&lt;span class=&#34;err&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;CMD&lt;/span&gt;&lt;span class=&#34;s&#34;&gt; docker version&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;ホストの&lt;code&gt;docker.sock&lt;/code&gt;を&lt;code&gt;-v&lt;/code&gt;オプションで共有する&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;コンテナ内からホスト側のdockerを呼ぶためには、&lt;code&gt;-v /var/run/docker.sock:/var/run/docker.sock&lt;/code&gt;でホスト側と共有させてあげればよい。&lt;/p&gt;
+
+&lt;p&gt;注意点は、セキュリティの問題らしい。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
